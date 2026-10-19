@@ -47,6 +47,10 @@ Profit Margin = (Profit / Sales) × 100
 | South | 391,721.91 | 46,749.43 | 11.93% |
 | Central | 501,239.89 | 39,706.36 | 7.92% |
 
+### Profit Margin by Region – Chart
+
+![Profit Margin by Region](Profit_Margin_by_Region.png)
+
 ### Key Findings
 
 - West achieved the highest profit margin at 14.94%.
